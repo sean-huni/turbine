@@ -1,0 +1,13 @@
+---
+spring:
+  application:
+    name: turbine
+  profiles:
+    active: dev
+  cloud:
+    config:
+      uri: http://localhost:8001
+      name: turbine
+
+server:
+  port: 8005
