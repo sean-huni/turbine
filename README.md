@@ -1,2 +1,2 @@
-# turbine
-Spring Cloud Netflix Turbine Circuit breaker metric aggregation using spring-cloud-netflix with Turbine and server-sent events
+# Turbine
+Dashboard monitor for circuit breakers and metric aggregation using spring-cloud-netflix with Turbine and server-sent events.
