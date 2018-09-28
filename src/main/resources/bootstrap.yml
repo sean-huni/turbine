@@ -6,8 +6,8 @@ spring:
     active: dev
   cloud:
     config:
-      uri: http://localhost:8001
+      uri: http://10.133.33.126:8002/
       name: turbine
 
 server:
-  port: 8005
+  port: 8007
